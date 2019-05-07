@@ -16,6 +16,7 @@
 
 ## Vue
 
+* 新手向：Vue 2.0 的建议学习顺序 [https://zhuanlan.zhihu.com/p/23134551](https://zhuanlan.zhihu.com/p/23134551)
 * Vue 官方中文文档 [https://cn.vuejs.org/](https://cn.vuejs.org/)
 * Vue Router 官方中文文档 [https://router.vuejs.org/zh/](https://router.vuejs.org/zh/)
 * Vuex 官方中文文档 [https://vuex.vuejs.org/zh/](https://vuex.vuejs.org/zh/)
