@@ -9,9 +9,10 @@
 * [Webpack](#Webpack)
 * [工具](#工具)
 
-## 小程序
+## 微信小程序
 
 * 小程序官方文档 [https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/introduction.html](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/introduction.html)
+* 小游戏官方文档 [https://developers.weixin.qq.com/minigame/dev/index.html](https://developers.weixin.qq.com/minigame/dev/index.html)
 
 ## Vue
 
