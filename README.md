@@ -3,7 +3,7 @@
 
 ## 目录
 
-* [小程序](#小程序)
+* [小程序](#微信小程序)
 * [Vue](#Vue)
 * [React](#React)
 * [Webpack](#Webpack)
