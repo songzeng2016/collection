@@ -16,6 +16,10 @@
 
 ## Vue
 
+* Vue 官方中文文档 [https://cn.vuejs.org/](https://cn.vuejs.org/)
+* Vue Router 官方中文文档 [https://router.vuejs.org/zh/](https://router.vuejs.org/zh/)
+* Vuex 官方中文文档 [https://vuex.vuejs.org/zh/](https://vuex.vuejs.org/zh/)
+
 ## React
 
 ## Webpack
